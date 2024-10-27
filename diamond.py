@@ -1,6 +1,6 @@
 # with n being parameter or input of user
-# string multiplication in python is O(n)
-# first for loop: O(n power 2)
+# string multiplication in python is O(n) where n is number of times
+# first for loop: O(n power 2) : for goes for n times and str mult. reaches O(n) at a certain point
 # second for loop: O(n power 2)
 # O(n power 2) whole function
 def generateDiamonds(n):
